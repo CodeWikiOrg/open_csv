@@ -16,7 +16,7 @@ To use CSVLib in your project, follow these steps:
 
 1. Clone this repository to your local machine:
 
-  https://github.com/CodeWikiOrg/open_csv
+      https://github.com/CodeWikiOrg/open_csv
 
 2. Include the 'open_csv.h' header file in your C source files.
 
